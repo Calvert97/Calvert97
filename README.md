@@ -7,7 +7,7 @@
   <img align="left" alt="Calvert Lee | Twitter" width="21px" src="https://raw.githubusercontent.com/Calvert97/Calvert97/master/assets/twitter.svg" />
 </a>
 <a href="https://codepen.io/Calvert97">
-  <img align="left" alt="Calvert Lee | Codepen" width="21px" src="https://raw.githubusercontent.com/Calvert97/Calvert97/master/assets/codepen.svg" />
+  <img align="left" alt="Calvert Lee | Codepen" width="21px" src="https://raw.githubusercontent.com/Calvert97/Calvert97/master/assets/codepen.png" />
 </a>
 
 <br />
