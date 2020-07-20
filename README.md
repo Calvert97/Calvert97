@@ -17,8 +17,8 @@ Hi, I'm Calvert Lee, a front-end development of primary school students from Chi
 
 - 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
 - 🌱 I’m currently learning GraphQL & Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/Calvert97/github-readme-stats)
+- 💬 Ask me about anything [here](https://github.com/Calvert97/Calvert97/issues)
 
 **Languages and Tools:**  
 
