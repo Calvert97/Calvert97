@@ -15,9 +15,9 @@
 
 Hi, I'm Calvert Lee, a front-end development of primary school students from China.
 
-- 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
-- 🌱 I’m currently learning GraphQL & Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/Calvert97/github-readme-stats)
+- 🔭 I’m currently working on my project [Quadrotor Trajectory Tracking with FO-SMC]
+- 🌱 I’m currently learning CSS3 & HTML5
+- 👯 I’m looking to collaborate on [Control Theory of Quadrotor]
 - 💬 Ask me about anything [here](https://github.com/Calvert97/Calvert97/issues)
 
 **Languages and Tools:**  
